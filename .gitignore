@@ -1,0 +1,35 @@
+# Virtual Environment
+
+torchu/
+venv/
+.venv/
+
+# Python Cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+.idea/
+
+# Environment Variables
+
+.env
+
+# Large Model Files
+
+saved_summary_model/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
